@@ -21,6 +21,9 @@ bin/phpunit
 ```
 
 Put your designs/docs in 'doc'
+
 Put your tests in 'test'
+
 Put your code in 'src'
+
 Put your config in 'etc'
